@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a developer who enjoys building useful and sometimes fun software.
+I'm like building useful and sometimes fun apps.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
@@ -12,14 +12,14 @@ I'm a developer who enjoys building useful and sometimes fun software.
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
 
-## 🌱 Projects
+## 🌱 My Projects
 
 - **[Mediadex](https://mediadex.onrender.com)** – A personal movie-tracking web app built with Django and TMDB API. Includes user profiles and movie collections.
 - **[Asciimator](https://github.com/mizwit/Asciimator)** – A Python CLI animation tool for creating and playing frame-by-frame ASCII art.
 - **[Habit Tracker - Discord Bot](https://github.com/mizwit/Habit-Tracker-Discord-Bot)** – Track your habits with your Discord friends. Complete with dashboards, streaks, and XP.
 - **[LingoBasics](https://github.com/mizwit/LingoBasics)** – A simple Tkinter-based language learning game focused on everyday vocabulary.
 
-## 🔧 Currently Working On
+## 🔧 In Development
 
 - **[My Portfolio](https://mizwit.github.io)** - I'm designing a dev portfolio site to showcase my projects, built using JavaScript and Bootstrap.
 - **[LeetCode Solutions](https://github.com/mizwit/LeetCode-Solutions)** – A growing set of Python solutions for LeetCode problems as I explore different algorithms and patterns.
@@ -31,9 +31,7 @@ I'm a developer who enjoys building useful and sometimes fun software.
 
 ## 🎮 Other Interests
 
-I've taken part in game jams to experiment with small ideas and gameplay mechanics. You can check them out here:  
-- [Unity Games](https://play.unity.com/en/user/aa51fa96-1dd5-4777-a825-4831834aabfb)  
-- [itch.io Games](https://itch.io/profile/mizwit)
+- I've taken part in game jams to experiment with small ideas and gameplay mechanics. You can check them out at [itch.io](https://itch.io/profile/mizwit) and [Unity](https://play.unity.com/en/user/aa51fa96-1dd5-4777-a825-4831834aabfb) games.
 ---
 
 Thanks for visiting!  
